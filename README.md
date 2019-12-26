@@ -10,16 +10,7 @@ You need to get an API key to use the VirusTotal Public API 2.0. To do so, just 
 
 ### Install
 
-Install ``virustotal`` using setuptools' related softwares.
-    
-    pip install virustotal
-    easy_install virustotal
-
-or clone this repos
-    
     git clone git://github.com/Gawen/virustotal.git
-    cd virustotal
-    python setup.py install
 
 ### Import
 
